@@ -8,4 +8,5 @@ mkdir for creating a directory
 mv for moving fill
 rm remove file
 rm -rf remove directory and it s container
+cd - for returing at the previous directory
 
