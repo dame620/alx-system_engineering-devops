@@ -6,4 +6,5 @@ ls -l listing a content of a directory on long format
 ls -nal listing on long format with hidden fill and group ids display numeric
 mkdir for creating a directory
 mv for moving fill
+rm remove file
 
