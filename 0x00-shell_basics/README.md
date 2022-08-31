@@ -2,3 +2,5 @@
 pwd is for showing the absolute route of current work directory
 ls is for listing the content of a directory
 cd is for being on the home directory
+ls -l listing a content of a directory on long format
+
