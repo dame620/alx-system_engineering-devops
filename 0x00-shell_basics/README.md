@@ -10,3 +10,4 @@ rm remove file
 rm -rf remove directory and it s container
 cd - for returing at the previous directory
 ls -al ./ .. /boot listing current parent of current and /boot in long format and include hidden fill
+type commande for the type of file
